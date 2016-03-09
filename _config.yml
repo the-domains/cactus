@@ -1,0 +1,28 @@
+name: Cactus
+favicon: null
+layout_spectrum: 0.37126207491382957
+typography_spectrum: 0.11297892453148961
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.5153313672635704
+  lightness: 0.47065122658386827
+  saturation: 0.18659857474267483
+  rhythmicContrast: 0.5893078334629536
+purpose: []
